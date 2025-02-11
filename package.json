@@ -1,7 +1,7 @@
 {
   "name": "prime-music",
   "version": "1.2",
-  "description": "Music Bot",
+  "description": "XSNier",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^14.15.1",
